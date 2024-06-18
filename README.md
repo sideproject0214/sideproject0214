@@ -3,7 +3,7 @@
 - My blog : https://blog.ssaple.com
      
 - <2024 Project>
-  - Education Flatform Open by Rust(Leptos<SSR> + Axum + Sqlx)
+  - Education Flatform Open by Rust(Leptos<SSR> + Actix-web + Sqlx)
 
 <!---
 sideproject0214/sideproject0214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
